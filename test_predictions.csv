@@ -1,0 +1,26 @@
+Message,Actual,Decision Tree,KNN (k=5),SVM,Naive Bayes
+Earn money from home with no experience sign up immediately,spam,ham,spam,spam,spam
+Get low interest credit instantly through this online offer,spam,ham,spam,spam,spam
+Your free subscription is ready activate it using this link,spam,spam,spam,spam,spam
+Can we reschedule the call to tomorrow morning,ham,ham,ham,ham,ham
+Exclusive investment returns guaranteed join our money scheme,spam,spam,spam,spam,spam
+Lowest price guaranteed buy now and get a bonus gift,spam,spam,spam,spam,spam
+The bus route changed so check the updated schedule,ham,ham,ham,ham,ham
+Act fast to collect your free tickets offer ends tonight,spam,spam,spam,spam,spam
+Winner announcement collect your reward by confirming your details,spam,ham,spam,spam,spam
+Urgent claim your winning amount by replying to this message,spam,ham,spam,spam,spam
+The assignment deadline is next Thursday afternoon,ham,ham,ham,ham,ham
+Your number has won a cash reward call to claim it,spam,spam,spam,spam,spam
+We should test the program before the project demonstration,ham,ham,ham,ham,ham
+I am waiting near the main college entrance,ham,spam,spam,ham,spam
+Win a brand new phone today by entering this lucky draw,spam,ham,spam,spam,spam
+The discussion was useful and I understand the topic now,ham,ham,spam,ham,ham
+I will share the meeting link in our class group,ham,ham,ham,ham,ham
+Final reminder claim the bonus before your account reward expires,spam,ham,spam,spam,spam
+I am working on the report and will send it tonight,ham,ham,spam,ham,ham
+I will be absent today because I have an appointment,ham,ham,spam,spam,spam
+Did you receive the photos from yesterday event,ham,ham,spam,ham,spam
+I bought groceries and will cook dinner when I get home,ham,ham,spam,ham,ham
+Remember to save a copy of the assignment document,ham,ham,ham,ham,ham
+The weather looks cloudy so carry an umbrella outside,ham,ham,spam,ham,ham
+Special offer save money with this limited time promotion,spam,spam,spam,spam,spam
